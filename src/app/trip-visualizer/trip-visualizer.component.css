@@ -1,0 +1,27 @@
+.trip-input {
+  margin-bottom: 20px;
+}
+
+input {
+  margin-right: 10px;
+  padding: 5px;
+}
+
+button {
+  padding: 6px 12px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.trip-visualization {
+  overflow-x: auto;
+  border: 1px solid #ddd;
+  padding: 10px;
+  white-space: nowrap;
+}
+
+svg {
+  min-width: 1000px;
+}
